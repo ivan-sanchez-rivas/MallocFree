@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1379215187 source:c:\users\ivan\desktop\ejercicios c\memoryallocate\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1379215187 source:c:\users\ivan\desktop\ejercicios c\mallocfree\main.c
+	<stdio.h>
+	<stdlib.h>
+
